@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>db/day1.txt</file>
+        <file>db/day2.txt</file>
+        <file>db/day3.txt</file>
+        <file>db/day4.txt</file>
+        <file>db/day5.txt</file>
+        <file>db/day6.txt</file>
+        <file>db/day7.txt</file>
+        <file>db/shoppers.txt</file>
+    </qresource>
+</RCC>
